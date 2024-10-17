@@ -1,0 +1,120 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "user_privacy_title",
+      "value": "Welcom To Use Heima Healthy"
+    },
+    {
+      "name": "user_privacy_content",
+      "value": "Thank you for trusting and using Heima Health! We will use the 《User Agreement》 and the 《Heima Health Privacy Policy》 to help you understand our collection, use, storage and sharing of personal information, in particular the relationship between the types of personal information we collect and the purposes for which we use it. In addition, you will learn about your rights and how to achieve them. If you agree, please click the button below to start receiving our services"
+    },
+    {
+      "name": "agree_label",
+      "value": "agree"
+    },
+    {
+      "name": "refuse_label",
+      "value": "refuse"
+    },
+    {
+      "name": "tab_record",
+      "value": "record"
+    },
+    {
+      "name": "tab_discover",
+      "value": "discover"
+    },
+    {
+      "name": "tab_user",
+      "value": "mine"
+    },
+    {
+      "name": "breakfast",
+      "value": "早餐"
+    },
+    {
+      "name": "lunch",
+      "value": "午餐"
+    },
+    {
+      "name": "dinner",
+      "value": "晚餐"
+    },
+    {
+      "name": "extra_meal",
+      "value": "加餐"
+    },
+    {
+      "name": "workout",
+      "value": "运动"
+    },
+    {
+      "name": "EntryFormAbility_desc",
+      "value": "form_description"
+    },
+    {
+      "name": "EntryFormAbility_label",
+      "value": "form_label"
+    },
+    {
+      "name": "staple",
+      "value": "主食"
+    },
+    {
+      "name": "fruit",
+      "value": "果蔬"
+    },
+    {
+      "name": "meat",
+      "value": "肉奶蛋"
+    },
+    {
+      "name": "nut",
+      "value": "坚果"
+    },
+    {
+      "name": "other_type",
+      "value": "其他"
+    },
+    {
+      "name": "walking_type",
+      "value": "散步"
+    },
+    {
+      "name": "running",
+      "value": "跑步"
+    },
+    {
+      "name": "riding",
+      "value": "骑行"
+    },
+    {
+      "name": "aerobics",
+      "value": "跳操"
+    },
+    {
+      "name": "swimming",
+      "value": "游泳"
+    },
+    {
+      "name": "ballgame",
+      "value": "球类运动"
+    },
+    {
+      "name": "strength",
+      "value": "伸展运动"
+    }
+  ]
+}
